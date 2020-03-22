@@ -1,0 +1,30 @@
+<resources>
+
+    // Resources for main Activity
+    <string name="app_name">My BMI Application</string>
+    <string name="bmi">YOUR_BMI_VALUE</string>
+    <string name="calculate">Calculate</string>
+    <string name="mass">Mass [in kg]</string>
+    <string name="height">Height [in cm]</string>
+    <string name="enter_height">Enter_your_height_here</string>
+    <string name="enter_mass">Enter_your_mass_here</string>
+
+    // Resources for returning Error
+    <string name="empty_field_error">Empty_Field_Error</string>
+
+    // Resources for BMI Types
+    <string name="Underweight">Underweight</string>
+    <string name="Normal">Normal</string>
+    <string name="Overweight"> Overweight</string>
+    <string name="Obesity_class_1">Obesity Class 1</string>
+    <string name="Obesity_class_2">Obesity Class 2</string>
+    <string name="Obesity_class_3">Obesity Class 3</string>
+
+    // Add an Author Menu
+    <string name="GoMenu">Menu</string>
+    <string name="Exit">Exit</string>
+    <string name="Statistics">Statistics</string>
+    <string name="Options">Options</string>
+    <string name="Favorites">Favorites</string>
+
+</resources>

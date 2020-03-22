@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/options"
+        android:title="@string/Options"
+        android:icon="@android:drawable/ic_menu_preferences"
+    >
+
+        <menu android:id="@+id/Secondmenu">
+            <item android:id="@+id/favorites"
+                android:title="@string/Favorites"/>
+
+            <item android:id="@+id/statistics"
+                android:title="@string/Statistics"/>
+        </menu>
+    </item>
+
+    <item android:id="@+id/exit"
+        android:title="@string/Exit"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+    />
+</menu>
