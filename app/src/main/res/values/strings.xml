@@ -20,11 +20,20 @@
     <string name="Obesity_class_2">Obesity Class 2</string>
     <string name="Obesity_class_3">Obesity Class 3</string>
 
-    // Add an Author Menu
-    <string name="GoMenu">Menu</string>
-    <string name="Exit">Exit</string>
-    <string name="Statistics">Statistics</string>
-    <string name="Options">Options</string>
-    <string name="Favorites">Favorites</string>
+    // Add button for switch between Metric and Imperial
+    <string name="metric">Metric</string>
+    <string name="imperial">Imperial</string>
+    <string name="default_unit">@string/metric</string>
+    <string name="mass_metric">mass_metric</string>
+    <string name="mass_imperial">mass_imperial</string>
+    <string name="height_metric">height_metric</string>
+    <string name="height_imperial">height_imperial</string>
+
+    // Add a Wiki Link
+    <string name="more_information">Wikipedia for more information</string>
+    <string name="wikipedia_bmi_link">https://en.wikipedia.org/wiki/Body_mass_index</string>
+
+
+
 
 </resources>
